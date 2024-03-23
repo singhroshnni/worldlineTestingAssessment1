@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-23T21:54:28 IST" name="Default suite" finished-at="2024-03-23T21:54:58 IST" duration-ms="29759">
+    <groups>
+    </groups>
+    <test started-at="2024-03-23T21:54:28 IST" name="Default test" finished-at="2024-03-23T21:54:58 IST" duration-ms="29759">
+      <class name="WorldLine.Assessment1.RegisterationTest">
+        <test-method signature="openWebsite()[pri:0, instance:WorldLine.Assessment1.RegisterationTest@2b662a77]" started-at="2024-03-23T21:54:28 IST" name="openWebsite" finished-at="2024-03-23T21:54:32 IST" duration-ms="4430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openWebsite -->
+        <test-method signature="registerUser()[pri:1, instance:WorldLine.Assessment1.RegisterationTest@2b662a77]" started-at="2024-03-23T21:54:32 IST" name="registerUser" finished-at="2024-03-23T21:54:34 IST" duration-ms="1171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUser -->
+        <test-method signature="loginCheck()[pri:2, instance:WorldLine.Assessment1.RegisterationTest@2b662a77]" started-at="2024-03-23T21:54:34 IST" name="loginCheck" finished-at="2024-03-23T21:54:37 IST" duration-ms="3623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCheck -->
+        <test-method signature="searchItem()[pri:3, instance:WorldLine.Assessment1.RegisterationTest@2b662a77]" started-at="2024-03-23T21:54:37 IST" name="searchItem" finished-at="2024-03-23T21:54:53 IST" duration-ms="15929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchItem -->
+        <test-method signature="selectItem()[pri:4, instance:WorldLine.Assessment1.RegisterationTest@2b662a77]" started-at="2024-03-23T21:54:53 IST" name="selectItem" finished-at="2024-03-23T21:54:54 IST" duration-ms="1052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectItem -->
+        <test-method signature="addtoCartandViewCart()[pri:5, instance:WorldLine.Assessment1.RegisterationTest@2b662a77]" started-at="2024-03-23T21:54:54 IST" name="addtoCartandViewCart" finished-at="2024-03-23T21:54:56 IST" duration-ms="2098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtoCartandViewCart -->
+        <test-method signature="logOut()[pri:6, instance:WorldLine.Assessment1.RegisterationTest@2b662a77]" started-at="2024-03-23T21:54:56 IST" name="logOut" finished-at="2024-03-23T21:54:58 IST" duration-ms="1310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method signature="terminatedriver()[pri:7, instance:WorldLine.Assessment1.RegisterationTest@2b662a77]" started-at="2024-03-23T21:54:58 IST" name="terminatedriver" finished-at="2024-03-23T21:54:58 IST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminatedriver -->
+      </class> <!-- WorldLine.Assessment1.RegisterationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
