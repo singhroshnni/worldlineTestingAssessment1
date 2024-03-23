@@ -1,10 +1,8 @@
 # worldlineTestingAssessment1
-Certainly! Here's the content for the `README.md` file in a single file:
 
-```markdown
 # WorldLine Assessment
 
-This project contains automated tests for various functionalities of a demo website. It utilizes Selenium WebDriver for automation, TestNG for test management, and Cucumber for behavior-driven development (BDD) tests.
+This project contains automated tests for various functionalities of tutorialsninja.com/demo website. It utilizes Selenium WebDriver for automation, TestNG for test management, and Cucumber for behavior-driven development (BDD) tests.
 
 ## Steps to Run the Tests
 
