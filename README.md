@@ -11,7 +11,7 @@ This project contains automated tests for various functionalities of a demo webs
 1. **Clone Repository:** Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/worldline-assessment.git
+   https://github.com/singhroshnni/worldlineTestingAssessment1.git
    ```
 
 2. **Install Dependencies:**
