@@ -25,7 +25,8 @@ This project contains automated tests for various functionalities of a demo webs
    - Navigate to the project directory.
 
    ```bash
-   cd worldline-assessment
+   cd worldlineTestingAssessment1
+
    ```
 
    - Execute Maven command to run the tests.
